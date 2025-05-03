@@ -26,4 +26,6 @@ Then, compare the results keeping "f1 score" as the main scoring parameter along
 |File Name| Description|
 |---------|------------|
 |thyroid_cancer_risk_data| Dataset file used for model building|
+|Thyroid_cancer_classification| ipynb-file of classification models w/ results|
+
 
