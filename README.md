@@ -15,7 +15,7 @@ Link: https://www.kaggle.com/datasets/ankushpanday1/thyroid-cancer-risk-predicti
 **Method of Approach**: 
 The approached followed is firstly, to create different visualizations and graphs to gain insights of the data. Secondly, to create both descriptive and predictive models such as Logit, Log Reg, Decision tree and KNN.
 
-Then, compare the results keeping "f1 score" as the main scoring parameter along with keeping over fitting or underfitting in check.
+Then, compared the results keeping "f1 score" as the main scoring parameter along with keeping overfitting or underfitting in check.
 
 **Results**:
 1. Successfully gained insights required.
